@@ -71,11 +71,3 @@ The Windows Forms application provides a graphical interface for the login proce
 1. Open the solution in Visual Studio.
 2. Build the solution to ensure all components are compiled.
 3. Run the Console Application or Windows Forms Application as needed.
-
-## Acknowledgments
-
-This project showcases fundamental concepts in C# such as object-oriented programming, file handling, and user interface design.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
