@@ -1,0 +1,6 @@
+C:\Users\Jett\Desktop\LibLoginAuthenticator\LibLoginAuthenticator\bin\Debug\LibLoginAuthenticator.dll
+C:\Users\Jett\Desktop\LibLoginAuthenticator\LibLoginAuthenticator\bin\Debug\LibLoginAuthenticator.pdb
+C:\Users\Jett\Desktop\LibLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.csproj.AssemblyReference.cache
+C:\Users\Jett\Desktop\LibLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.csproj.CoreCompileInputs.cache
+C:\Users\Jett\Desktop\LibLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.dll
+C:\Users\Jett\Desktop\LibLoginAuthenticator\LibLoginAuthenticator\obj\Debug\LibLoginAuthenticator.pdb
